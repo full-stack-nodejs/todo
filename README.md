@@ -4,7 +4,7 @@
 
 This project is for educational porpuses only.
 
-Site published at
+Site published at https://todo-two-zeta.vercel.app/
 
 ## Project features
 
